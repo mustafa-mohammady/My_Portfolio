@@ -8,3 +8,13 @@ As Fullstack Developer i can Creating Complex Databases With these Technologies.
 - [ ] JAVASCRIPT
 - [ ] JQUERY
 - [ ] AJAX
+
+## Backend 
+- [ ] PHP
+- [ ] Laravel FrameWork
+- [ ] Codeigniter FrameWork
+- [ ] Mysql
+- [ ] Postgresql
+
+## CMS 
+- [] Wordpress
