@@ -23,4 +23,4 @@ I am Mustafa Mohammady, a Computer Science graduate with a degree obtained in 20
 
 ----------------------------------------------------------
 _**Note**_: If you have a project in mind and are looking for a Full-Stack Developer, feel free to reach out to me via LinkedIn.
-![Linkedin Profile](https://www.linkedin.com/in/mustafa-mohammady-7a43b6140/)
+[Linkedin Profile](https://www.linkedin.com/in/mustafa-mohammady-7a43b6140/)
