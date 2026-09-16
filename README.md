@@ -1,6 +1,5 @@
 # MY Profile
-I am Mustafa Mohammady , graduated from Computer Science in 2017. I have more experience with Frontend and Backend Development. 
-As Fullstack Developer i can Creating Complex Databases With these Technologies. 
+I am Mustafa Mohammady, a Computer Science graduate with a degree obtained in 2017. I have extensive experience in both frontend and backend development. As a Full-Stack Developer, I am experienced in designing and developing complex databases and building scalable web applications using a variety of modern technologies.
 
 ## Frontend 
 - [ ] HTML
