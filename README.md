@@ -1,6 +1,6 @@
 # my-first-neuefische-project
-Heute habe ich diese **points** gelernt.
-- [x] Was is Md
-- [x] Md stand for what?
-- [x] wie kann ich ein repository erschaffen.
+Today i have learned these **points**.
+- [x] Whats MD
+- [x] MD stand for what?
+- [x] How can i create a Github account and new Repository.
 
