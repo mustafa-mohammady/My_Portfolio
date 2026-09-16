@@ -17,4 +17,4 @@ As Fullstack Developer i can Creating Complex Databases With these Technologies.
 - [ ] Postgresql
 
 ## CMS 
-- [] Wordpress
+- [ ] Wordpress
